@@ -7,4 +7,4 @@
   
  return (x*y)  # division implementationdef divide(x,y): 
 
-   return x/y     #  Square implementation   def square(x)    return x*x
+   return x/y     #  Square implementation   def square(x)    return x*x	return (x*x)
