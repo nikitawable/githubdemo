@@ -2,7 +2,7 @@
   
  return x+y # substration implementationdef subtract(x,y):  
 
-  return x-y   # multiplication implementationdef multiply(x,y): 
+  return x-y  return x-y   # multiplication implementationdef multiply(x,y): 
   
  return x*y  # division implementationdef divide(x,y): 
 
